@@ -13,7 +13,7 @@ cars = pandas.read_excel("event_info.xlsx", sheetname="Cars")
 cruise_speed = cars[cars["Car"].str.contains(car_name)].loc[0, "Cruising Speed (MPH)"]
 boost_speed = cars[cars["Car"].str.contains(car_name)].loc[0, "Boosting Speed (MPH)"]
 
-races = pandas.read_excel("event_info.xlsx", sheetname="Races", skip_footer=42)
+races = pandas.read_excel("event_info.xlsx", sheetname="Races")
 races = races[[col for col in races.columns if ("Time" not in col and "Distance" not in col) or car_name in col]]
 races.rename(columns={car_name + " Time (s)": "Time"}, inplace=True)
 races = {t.Name: t for t in races.itertuples(index=False)}

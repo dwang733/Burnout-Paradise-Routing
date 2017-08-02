@@ -1,0 +1,100 @@
+Final time: 1365.7140060583638
+Start location: Downtown Paradise Yard
+End location: Downtown Paradise Yard
+{name: Downtown Paradise Yard, travel time: 19.078907462736648}
+{name: Plain Sailing, type: Race, time: 66.14705882352942, travel time: 9.252145291882057, restart: False}
+{name: Riverside Run, type: Race, time: 74.08823529411765, travel time: 17.9733790298814, restart: False}
+{name: The Duel, type: Race, time: 84.67647058823529, travel time: 12.442513882103421, restart: False}
+{name: Offroad Parking, type: Stunt Run, time: 83.0, travel time: 0.0, restart: False}
+{name: Express Yourself, type: Stunt Run, time: 63.0, travel time: 18.866431186599858, restart: False}
+{name: Pleasure Cruise, type: Race, time: 79.38235294117646, travel time: 17.841525762850974, restart: False}
+{name: Stealing 1st, type: Race, time: 47.617647058823536, travel time: 4.898798953792572, restart: False}
+{name: Rat Race, type: Race, time: 82.02941176470588, travel time: 26.46739371869734, restart: False}
+{name: Strike Out, type: Marked Man, time: 64.14705882352942, travel time: 28.212699575481924, restart: False}
+{name: Mayday Mayday, type: Marked Man, time: 82.67647058823529, travel time: 24.79253935918124, restart: True}
+{name: Avant Guard, type: Race, time: 79.38235294117646, travel time: 35.85564140874045, restart: True}
+{name: Heads Up, type: Race, time: 79.38235294117646, travel time: 28.731061545334498, restart: True}
+{name: Over Construction, type: Stunt Run, time: 68.0, travel time: 14.785693376586938, restart: False}
+{name: Club Sandwich, type: Marked Man, time: 69.44117647058823, travel time: 25.090885978629906, restart: True}
+{name: Emergency 911, type: Marked Man, time: 69.44117647058823, travel time: 1.9538012905703415, restart: False}
+---------------------------------
+Final time: 1386.460482118677
+Start location: Downtown Paradise Yard
+End location: Palm Bay Heights Yard
+{name: Downtown Paradise Yard, travel time: 19.078907462736648}
+{name: Plain Sailing, type: Race, time: 66.14705882352942, travel time: 17.841525762850974, restart: False}
+{name: Stealing 1st, type: Race, time: 47.617647058823536, travel time: 4.898798953792572, restart: False}
+{name: Rat Race, type: Race, time: 82.02941176470588, travel time: 17.9733790298814, restart: False}
+{name: The Duel, type: Race, time: 84.67647058823529, travel time: 12.442513882103421, restart: False}
+{name: Offroad Parking, type: Stunt Run, time: 83.0, travel time: 0.0, restart: False}
+{name: Express Yourself, type: Stunt Run, time: 63.0, travel time: 24.655523896760368, restart: False}
+{name: Over Construction, type: Stunt Run, time: 68.0, travel time: 14.785693376586938, restart: False}
+{name: Club Sandwich, type: Marked Man, time: 69.44117647058823, travel time: 22.951938219146637, restart: True}
+{name: Mayday Mayday, type: Marked Man, time: 82.67647058823529, travel time: 34.458609334240926, restart: True}
+{name: Heads Up, type: Race, time: 79.38235294117646, travel time: 25.747985671698316, restart: True}
+{name: Pleasure Cruise, type: Race, time: 79.38235294117646, travel time: 9.252145291882057, restart: False}
+{name: Riverside Run, type: Race, time: 74.08823529411765, travel time: 26.46739371869734, restart: False}
+{name: Strike Out, type: Marked Man, time: 64.14705882352942, travel time: 32.86652323264116, restart: False}
+{name: Avant Guard, type: Race, time: 79.38235294117646, travel time: 23.913666949537845, restart: True}
+{name: Emergency 911, type: Marked Man, time: 69.44117647058823, travel time: 19.655289100826202, restart: True}
+---------------------------------
+Final time: 1397.7938461494552
+Start location: Downtown Paradise Yard
+End location: Harbor Town Yard
+{name: Downtown Paradise Yard, travel time: 7.1861696572434495}
+{name: Stealing 1st, type: Race, time: 47.617647058823536, travel time: 28.212699575481924, restart: False}
+{name: Mayday Mayday, type: Marked Man, time: 82.67647058823529, travel time: 32.767188520234384, restart: True}
+{name: Pleasure Cruise, type: Race, time: 79.38235294117646, travel time: 9.252145291882057, restart: False}
+{name: Riverside Run, type: Race, time: 74.08823529411765, travel time: 26.46739371869734, restart: False}
+{name: Strike Out, type: Marked Man, time: 64.14705882352942, travel time: 32.86652323264116, restart: False}
+{name: Avant Guard, type: Race, time: 79.38235294117646, travel time: 42.38453185718191, restart: True}
+{name: Offroad Parking, type: Stunt Run, time: 83.0, travel time: 0.0, restart: False}
+{name: Express Yourself, type: Stunt Run, time: 63.0, travel time: 14.254510066084311, restart: False}
+{name: Heads Up, type: Race, time: 79.38235294117646, travel time: 28.731061545334498, restart: True}
+{name: Over Construction, type: Stunt Run, time: 68.0, travel time: 14.785693376586938, restart: False}
+{name: Club Sandwich, type: Marked Man, time: 69.44117647058823, travel time: 25.090885978629906, restart: True}
+{name: Emergency 911, type: Marked Man, time: 69.44117647058823, travel time: 19.248909412536072, restart: False}
+{name: Plain Sailing, type: Race, time: 66.14705882352942, travel time: 10.757002513687453, restart: False}
+{name: Rat Race, type: Race, time: 82.02941176470588, travel time: 17.9733790298814, restart: False}
+{name: The Duel, type: Race, time: 84.67647058823529, travel time: 8.345164138058209, restart: False}
+---------------------------------
+Final time: 1387.2912286954547
+Start location: Downtown Paradise Yard
+End location: Silver Lake Yard
+{name: Downtown Paradise Yard, travel time: 7.1861696572434495}
+{name: Stealing 1st, type: Race, time: 47.617647058823536, travel time: 32.86652323264116, restart: False}
+{name: Avant Guard, type: Race, time: 79.38235294117646, travel time: 24.62465737384326, restart: True}
+{name: Over Construction, type: Stunt Run, time: 68.0, travel time: 16.614492510062416, restart: False}
+{name: Mayday Mayday, type: Marked Man, time: 82.67647058823529, travel time: 22.951938219146637, restart: True}
+{name: Club Sandwich, type: Marked Man, time: 69.44117647058823, travel time: 26.46739371869734, restart: False}
+{name: Strike Out, type: Marked Man, time: 64.14705882352942, travel time: 4.898798953792572, restart: False}
+{name: Rat Race, type: Race, time: 82.02941176470588, travel time: 17.9733790298814, restart: False}
+{name: The Duel, type: Race, time: 84.67647058823529, travel time: 12.442513882103421, restart: False}
+{name: Offroad Parking, type: Stunt Run, time: 83.0, travel time: 0.0, restart: False}
+{name: Express Yourself, type: Stunt Run, time: 63.0, travel time: 14.254510066084311, restart: False}
+{name: Heads Up, type: Race, time: 79.38235294117646, travel time: 25.747985671698316, restart: True}
+{name: Pleasure Cruise, type: Race, time: 79.38235294117646, travel time: 35.59358990896869, restart: True}
+{name: Emergency 911, type: Marked Man, time: 69.44117647058823, travel time: 19.248909412536072, restart: False}
+{name: Plain Sailing, type: Race, time: 66.14705882352942, travel time: 9.252145291882057, restart: False}
+{name: Riverside Run, type: Race, time: 74.08823529411765, travel time: 37.697633531579314, restart: False}
+---------------------------------
+Final time: 1397.1898470524766
+Start location: Downtown Paradise Yard
+End location: White Mountain Yard
+{name: Downtown Paradise Yard, travel time: 7.1861696572434495}
+{name: Stealing 1st, type: Race, time: 47.617647058823536, travel time: 28.212699575481924, restart: False}
+{name: Mayday Mayday, type: Marked Man, time: 82.67647058823529, travel time: 25.707955391569698, restart: True}
+{name: Over Construction, type: Stunt Run, time: 68.0, travel time: 14.785693376586938, restart: False}
+{name: Club Sandwich, type: Marked Man, time: 69.44117647058823, travel time: 25.090885978629906, restart: True}
+{name: Emergency 911, type: Marked Man, time: 69.44117647058823, travel time: 23.413666949537845, restart: True}
+{name: Avant Guard, type: Race, time: 79.38235294117646, travel time: 30.585452459828602, restart: True}
+{name: Pleasure Cruise, type: Race, time: 79.38235294117646, travel time: 25.747985671698316, restart: True}
+{name: Heads Up, type: Race, time: 79.38235294117646, travel time: 26.46739371869734, restart: False}
+{name: Strike Out, type: Marked Man, time: 64.14705882352942, travel time: 4.898798953792572, restart: False}
+{name: Rat Race, type: Race, time: 82.02941176470588, travel time: 21.17481638082313, restart: False}
+{name: Plain Sailing, type: Race, time: 66.14705882352942, travel time: 9.252145291882057, restart: False}
+{name: Riverside Run, type: Race, time: 74.08823529411765, travel time: 17.9733790298814, restart: False}
+{name: The Duel, type: Race, time: 84.67647058823529, travel time: 6.658486041626468, restart: False}
+{name: Race for the Plate, type: Race, time: 84.67647058823529, travel time: 28.62692659414226, restart: True}
+{name: Offroad Parking, type: Stunt Run, time: 83.0, travel time: 21.93680374576058, restart: False}
+---------------------------------

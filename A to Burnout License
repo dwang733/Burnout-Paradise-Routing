@@ -1,0 +1,225 @@
+Final time: 3513.3624162314313
+Start location: Downtown Paradise Yard
+End location: None
+{name: Downtown Paradise Yard, travel time: 34.51517859125812}
+{name: Go West!, type: Race, time: 119.05865921787709, travel time: 0.07568590350047304, restart: False}
+{name: Falling Down, type: Stunt Run, time: 78.0, travel time: 0.0, restart: False}
+{name: Full Gallop, type: Race, time: 90.90223463687151, travel time: 46.208955930701485, restart: False}
+{name: Rollercoaster, type: Race, time: 78.83519553072625, travel time: 7.567454976335381, restart: False}
+{name: Stealing 1st, type: Race, time: 40.62290502793296, travel time: 36.681436856068515, restart: False}
+{name: Pleasure Cruise, type: Race, time: 64.75698324022346, travel time: 3.5700969279305976, restart: False}
+{name: Man O' War, type: Race, time: 80.8463687150838, travel time: 0.07568590350047304, restart: False}
+{name: Catch My Drift, type: Race, time: 109.0027932960894, travel time: 14.835209371127785, restart: False}
+{name: Call of the Wild, type: Race, time: 119.05865921787709, travel time: 17.259041439532837, restart: False}
+{name: Steeplechased, type: Marked Man, time: 90.91340782122906, travel time: 7.013106623945734, restart: False}
+{name: Express Yourself, type: Stunt Run, time: 63.0, travel time: 10.386632194068747, restart: False}
+{name: Offroad Parking, type: Stunt Run, time: 83.0, travel time: 15.652898848071105, restart: False}
+{name: Power Surge, type: Race, time: 72.80167597765364, travel time: 16.785215546646416, restart: False}
+{name: Plaza Endurance, type: Race, time: 119.05865921787709, travel time: 7.720333157464498, restart: False}
+{name: Riverside Run, type: Race, time: 60.73463687150838, travel time: 5.582316416903924, restart: False}
+{name: Curveball, type: Race, time: 70.7905027932961, travel time: 9.00694051894024, restart: False}
+{name: Stampede, type: Marked Man, time: 98.95810055865921, travel time: 2.6097921891491644, restart: False}
+{name: High Noon Club, type: Race, time: 106.99162011173185, travel time: 39.92458312131648, restart: False}
+{name: Avant Guard, type: Race, time: 64.75698324022346, travel time: 23.445078338438748, restart: True}
+{name: Over Construction, type: Stunt Run, time: 68.0, travel time: 12.337730897019563, restart: False}
+{name: Club Sandwich, type: Marked Man, time: 56.72346368715084, travel time: 17.66905207936235, restart: False}
+{name: Plain Sailing, type: Race, time: 54.701117318435756, travel time: 0.15137180700094607, restart: False}
+{name: Unconventional, type: Stunt Run, time: 93.0, travel time: 0.0, restart: False}
+{name: Elevation, type: Stunt Run, time: 93.0, travel time: 20.9338233844234, restart: False}
+{name: Mayday Mayday, type: Marked Man, time: 66.77932960893855, travel time: 9.8240186124279, restart: False}
+{name: Safe Harbor, type: Marked Man, time: 92.92458100558659, travel time: 11.960528170000625, restart: False}
+{name: Heads Up, type: Race, time: 64.75698324022346, travel time: 9.322893618200622, restart: False}
+{name: Hang 10, type: Stunt Run, time: 88.0, travel time: 9.44407236015232, restart: False}
+{name: Horse Power, type: Race, time: 117.04748603351956, travel time: 21.23444874003531, restart: False}
+{name: Cliffhanger, type: Stunt Run, time: 98.0, travel time: 6.687825024597774, restart: False}
+{name: Reach for the Stars, type: Race, time: 113.02513966480447, travel time: 8.196472353108577, restart: False}
+{name: Hard Fort, type: Race, time: 115.03631284916202, travel time: 8.274722903682449, restart: False}
+{name: Rescue Me, type: Marked Man, time: 84.87988826815642, travel time: 8.286137512759092, restart: False}
+{name: Deep South, type: Race, time: 90.90223463687151, travel time: 5.556087690363808, restart: False}
+{name: Race for the Plate, type: Race, time: 68.77932960893855, travel time: 4.087739524356715, restart: False}
+{name: Rat Race, type: Race, time: 66.76815642458101, travel time: 14.997654024934148, restart: False}
+{name: The Duel, type: Race, time: 68.77932960893855, travel time: 18.788558694125122, restart: False}
+{name: Waterway to Go, type: Race, time: 80.8463687150838, travel time: 10.127497912977699, restart: False}
+{name: Press Ganged, type: Marked Man, time: 80.85754189944134, travel time: 5.6890430949377135, restart: False}
+{name: Hostile Waters, type: Marked Man, time: 70.80167597765364, travel time: 8.976041832613372, restart: False}
+---------------------------------
+Final time: 3518.79624230655
+Start location: Palm Bay Heights Yard
+End location: None
+{name: Palm Bay Heights Yard, travel time: 13.235514893267746}
+{name: Over Construction, type: Stunt Run, time: 68.0, travel time: 12.337730897019563, restart: False}
+{name: Club Sandwich, type: Marked Man, time: 56.72346368715084, travel time: 5.582316416903924, restart: False}
+{name: Curveball, type: Race, time: 70.7905027932961, travel time: 27.821071066781176, restart: True}
+{name: Seeing Stars, type: Marked Man, time: 123.09217877094972, travel time: 23.133827690249326, restart: True}
+{name: Plain Sailing, type: Race, time: 54.701117318435756, travel time: 16.11665517254862, restart: False}
+{name: Far, Far Away, type: Race, time: 129.1145251396648, travel time: 27.929561441839244, restart: True}
+{name: Run to the Hills, type: Marked Man, time: 119.06983240223462, travel time: 8.196472353108577, restart: False}
+{name: Hard Fort, type: Race, time: 115.03631284916202, travel time: 10.582231863967182, restart: False}
+{name: Reach for the Stars, type: Race, time: 113.02513966480447, travel time: 22.84376782837581, restart: True}
+{name: Offroad Parking, type: Stunt Run, time: 83.0, travel time: 0.0, restart: False}
+{name: Express Yourself, type: Stunt Run, time: 63.0, travel time: 18.666359617440865, restart: False}
+{name: Coast to Coast, type: Race, time: 76.82402234636871, travel time: 9.884474682196108, restart: False}
+{name: Tunnel Vision, type: Race, time: 137.159217877095, travel time: 15.755761965882922, restart: False}
+{name: Plaza Endurance, type: Race, time: 119.05865921787709, travel time: 18.34114787671165, restart: False}
+{name: Lighthouse Party, type: Stunt Run, time: 93.0, travel time: 3.785051958387886, restart: False}
+{name: Hang 10, type: Stunt Run, time: 88.0, travel time: 11.911816731283094, restart: False}
+{name: Press Ganged, type: Marked Man, time: 80.85754189944134, travel time: 8.274722903682449, restart: False}
+{name: Rescue Me, type: Marked Man, time: 84.87988826815642, travel time: 9.44407236015232, restart: False}
+{name: Horse Power, type: Race, time: 117.04748603351956, travel time: 2.6097921891491644, restart: False}
+{name: High Noon Club, type: Race, time: 106.99162011173185, travel time: 14.997654024934148, restart: False}
+{name: The Duel, type: Race, time: 68.77932960893855, travel time: 26.507360215076993, restart: False}
+{name: Mayday Mayday, type: Marked Man, time: 66.77932960893855, travel time: 9.8240186124279, restart: False}
+{name: Safe Harbor, type: Marked Man, time: 92.92458100558659, travel time: 5.6890430949377135, restart: False}
+{name: Hostile Waters, type: Marked Man, time: 70.80167597765364, travel time: 14.887630769001474, restart: False}
+{name: Stealing 1st, type: Race, time: 40.62290502793296, travel time: 33.61894225503062, restart: False}
+{name: Strike Out, type: Marked Man, time: 52.701117318435756, travel time: 9.00694051894024, restart: False}
+{name: Stampede, type: Marked Man, time: 98.95810055865921, travel time: 21.23444874003531, restart: False}
+{name: Cliffhanger, type: Stunt Run, time: 98.0, travel time: 0.0, restart: False}
+{name: Race for the Plate, type: Race, time: 68.77932960893855, travel time: 4.087739524356715, restart: False}
+{name: Rat Race, type: Race, time: 66.76815642458101, travel time: 25.460292457773292, restart: False}
+{name: Deep South, type: Race, time: 90.90223463687151, travel time: 15.788086726755349, restart: False}
+{name: Pleasure Cruise, type: Race, time: 64.75698324022346, travel time: 3.5700969279305976, restart: False}
+{name: Man O' War, type: Race, time: 80.8463687150838, travel time: 0.07568590350047304, restart: False}
+{name: Catch My Drift, type: Race, time: 109.0027932960894, travel time: 20.562343142859135, restart: False}
+{name: Eastern Promise, type: Race, time: 141.18156424581005, travel time: 0.15137180700094607, restart: False}
+{name: Unconventional, type: Stunt Run, time: 93.0, travel time: 0.0, restart: False}
+{name: Elevation, type: Stunt Run, time: 93.0, travel time: 22.774792601981268, restart: False}
+{name: Waterway to Go, type: Race, time: 80.8463687150838, travel time: 7.720333157464498, restart: False}
+{name: Riverside Run, type: Race, time: 60.73463687150838, travel time: 5.510016945529248, restart: False}
+{name: Go West!, type: Race, time: 119.05865921787709, travel time: 20.562343142859135, restart: False}
+---------------------------------
+Final time: 3467.8364891781466
+Start location: Harbor Town Yard
+End location: None
+{name: Harbor Town Yard, travel time: 6.076121653411936}
+{name: Hostile Waters, type: Marked Man, time: 70.80167597765364, travel time: 10.127497912977699, restart: False}
+{name: Press Ganged, type: Marked Man, time: 80.85754189944134, travel time: 18.735433539646824, restart: False}
+{name: Coast to Coast, type: Race, time: 76.82402234636871, travel time: 7.567454976335381, restart: False}
+{name: Stealing 1st, type: Race, time: 40.62290502793296, travel time: 4.087739524356715, restart: False}
+{name: Rat Race, type: Race, time: 66.76815642458101, travel time: 17.66905207936235, restart: False}
+{name: Plain Sailing, type: Race, time: 54.701117318435756, travel time: 0.15137180700094607, restart: False}
+{name: Unconventional, type: Stunt Run, time: 93.0, travel time: 17.32827066428676, restart: False}
+{name: Emergency 911, type: Marked Man, time: 56.72346368715084, travel time: 9.8240186124279, restart: False}
+{name: Safe Harbor, type: Marked Man, time: 92.92458100558659, travel time: 0.07568590350047304, restart: False}
+{name: Catch My Drift, type: Race, time: 109.0027932960894, travel time: 0.07568590350047304, restart: False}
+{name: Falling Down, type: Stunt Run, time: 78.0, travel time: 0.0, restart: False}
+{name: Full Gallop, type: Race, time: 90.90223463687151, travel time: 2.6097921891491644, restart: False}
+{name: High Noon Club, type: Race, time: 106.99162011173185, travel time: 5.510016945529248, restart: False}
+{name: Go West!, type: Race, time: 119.05865921787709, travel time: 35.75788500784007, restart: False}
+{name: Cliffhanger, type: Stunt Run, time: 98.0, travel time: 17.851768223859413, restart: False}
+{name: Pleasure Cruise, type: Race, time: 64.75698324022346, travel time: 3.5700969279305976, restart: False}
+{name: Man O' War, type: Race, time: 80.8463687150838, travel time: 10.582231863967182, restart: False}
+{name: Reach for the Stars, type: Race, time: 113.02513966480447, travel time: 8.196472353108577, restart: False}
+{name: Hard Fort, type: Race, time: 115.03631284916202, travel time: 5.556087690363808, restart: False}
+{name: Race for the Plate, type: Race, time: 68.77932960893855, travel time: 23.54172282457432, restart: False}
+{name: Mayday Mayday, type: Marked Man, time: 66.77932960893855, travel time: 8.242469413093348, restart: False}
+{name: Lighthouse Party, type: Stunt Run, time: 93.0, travel time: 16.509418714707124, restart: False}
+{name: Strike Out, type: Marked Man, time: 52.701117318435756, travel time: 29.880842474629212, restart: True}
+{name: Hang 10, type: Stunt Run, time: 88.0, travel time: 8.286137512759092, restart: False}
+{name: Deep South, type: Race, time: 90.90223463687151, travel time: 20.629511663323974, restart: False}
+{name: Over Construction, type: Stunt Run, time: 68.0, travel time: 0.0, restart: False}
+{name: Elevation, type: Stunt Run, time: 93.0, travel time: 0.0, restart: False}
+{name: Rescue Me, type: Marked Man, time: 84.87988826815642, travel time: 9.44407236015232, restart: False}
+{name: Horse Power, type: Race, time: 117.04748603351956, travel time: 7.013106623945734, restart: False}
+{name: Express Yourself, type: Stunt Run, time: 63.0, travel time: 10.386632194068747, restart: False}
+{name: Offroad Parking, type: Stunt Run, time: 83.0, travel time: 15.652898848071105, restart: False}
+{name: Power Surge, type: Race, time: 72.80167597765364, travel time: 16.785215546646416, restart: False}
+{name: Plaza Endurance, type: Race, time: 119.05865921787709, travel time: 4.934117241402194, restart: False}
+{name: Stampede, type: Marked Man, time: 98.95810055865921, travel time: 33.53534686682357, restart: False}
+{name: Run Home, type: Marked Man, time: 109.01396648044691, travel time: 2.923475181203855, restart: False}
+{name: Spaghetti Western, type: Race, time: 90.90223463687151, travel time: 37.28005194822389, restart: False}
+{name: Waterway to Go, type: Race, time: 80.8463687150838, travel time: 7.720333157464498, restart: False}
+{name: Riverside Run, type: Race, time: 60.73463687150838, travel time: 5.582316416903924, restart: False}
+{name: Curveball, type: Race, time: 70.7905027932961, travel time: 17.259041439532837, restart: False}
+{name: Steeplechased, type: Marked Man, time: 90.91340782122906, travel time: 32.05464727890493, restart: True}
+---------------------------------
+Final time: 3519.527886805546
+Start location: Silver Lake Yard
+End location: None
+{name: Silver Lake Yard, travel time: 7.3086879530096365}
+{name: Demolition Derby, type: Race, time: 96.93575418994412, travel time: 21.23444874003531, restart: False}
+{name: Cliffhanger, type: Stunt Run, time: 98.0, travel time: 15.918168826953687, restart: False}
+{name: Heads Up, type: Race, time: 64.75698324022346, travel time: 9.322893618200622, restart: False}
+{name: Hang 10, type: Stunt Run, time: 88.0, travel time: 23.011626538553017, restart: False}
+{name: Run Like the Wind, type: Marked Man, time: 129.12569832402232, travel time: 31.788219858385517, restart: True}
+{name: Lighthouse Party, type: Stunt Run, time: 93.0, travel time: 24.08393951051335, restart: False}
+{name: Horse Power, type: Race, time: 117.04748603351956, travel time: 7.013106623945734, restart: False}
+{name: Express Yourself, type: Stunt Run, time: 63.0, travel time: 0.0, restart: False}
+{name: Catch My Drift, type: Race, time: 109.0027932960894, travel time: 20.562343142859135, restart: False}
+{name: Eastern Promise, type: Race, time: 141.18156424581005, travel time: 0.15137180700094607, restart: False}
+{name: Unconventional, type: Stunt Run, time: 93.0, travel time: 12.337730897019563, restart: False}
+{name: Club Sandwich, type: Marked Man, time: 56.72346368715084, travel time: 17.66905207936235, restart: False}
+{name: Plain Sailing, type: Race, time: 54.701117318435756, travel time: 22.59106947666991, restart: False}
+{name: Run to the Hills, type: Marked Man, time: 119.06983240223462, travel time: 15.755761965882922, restart: False}
+{name: Plaza Endurance, type: Race, time: 119.05865921787709, travel time: 8.976041832613372, restart: False}
+{name: Rat Race, type: Race, time: 66.76815642458101, travel time: 5.582316416903924, restart: False}
+{name: Curveball, type: Race, time: 70.7905027932961, travel time: 9.233990409976892, restart: False}
+{name: Man O' War, type: Race, time: 80.8463687150838, travel time: 5.6890430949377135, restart: False}
+{name: Hostile Waters, type: Marked Man, time: 70.80167597765364, travel time: 4.934117241402194, restart: False}
+{name: Stampede, type: Marked Man, time: 98.95810055865921, travel time: 18.275599149580465, restart: False}
+{name: Power Surge, type: Race, time: 72.80167597765364, travel time: 14.835209371127785, restart: False}
+{name: Call of the Wild, type: Race, time: 119.05865921787709, travel time: 11.588596886538175, restart: False}
+{name: Far, Far Away, type: Race, time: 129.1145251396648, travel time: 33.64790279277301, restart: True}
+{name: Emergency 911, type: Marked Man, time: 56.72346368715084, travel time: 9.8240186124279, restart: False}
+{name: Safe Harbor, type: Marked Man, time: 92.92458100558659, travel time: 20.629511663323974, restart: False}
+{name: Over Construction, type: Stunt Run, time: 68.0, travel time: 0.0, restart: False}
+{name: Elevation, type: Stunt Run, time: 93.0, travel time: 0.0, restart: False}
+{name: Rescue Me, type: Marked Man, time: 84.87988826815642, travel time: 8.286137512759092, restart: False}
+{name: Deep South, type: Race, time: 90.90223463687151, travel time: 15.788086726755349, restart: False}
+{name: Pleasure Cruise, type: Race, time: 64.75698324022346, travel time: 15.261739181883435, restart: False}
+{name: Tunnel Vision, type: Race, time: 137.159217877095, travel time: 8.196472353108577, restart: False}
+{name: Hard Fort, type: Race, time: 115.03631284916202, travel time: 5.556087690363808, restart: False}
+{name: Race for the Plate, type: Race, time: 68.77932960893855, travel time: 27.425045876243615, restart: False}
+{name: Avant Guard, type: Race, time: 64.75698324022346, travel time: 11.911816731283094, restart: False}
+{name: Press Ganged, type: Marked Man, time: 80.85754189944134, travel time: 18.735433539646824, restart: False}
+{name: Coast to Coast, type: Race, time: 76.82402234636871, travel time: 7.567454976335381, restart: False}
+{name: Stealing 1st, type: Race, time: 40.62290502793296, travel time: 2.923475181203855, restart: False}
+{name: Spaghetti Western, type: Race, time: 90.90223463687151, travel time: 2.6097921891491644, restart: False}
+{name: High Noon Club, type: Race, time: 106.99162011173185, travel time: 12.42448136475029, restart: False}
+{name: Seeing Stars, type: Marked Man, time: 123.09217877094972, travel time: 8.196472353108577, restart: False}
+---------------------------------
+Final time: 3531.5705195586925
+Start location: White Mountain Yard
+End location: None
+{name: White Mountain Yard, travel time: 14.432013849373583}
+{name: Run Home, type: Marked Man, time: 109.01396648044691, travel time: 17.259041439532837, restart: False}
+{name: Steeplechased, type: Marked Man, time: 90.91340782122906, travel time: 21.23444874003531, restart: False}
+{name: Cliffhanger, type: Stunt Run, time: 98.0, travel time: 29.983560782867094, restart: False}
+{name: Mayday Mayday, type: Marked Man, time: 66.77932960893855, travel time: 24.26624092276677, restart: True}
+{name: Over Construction, type: Stunt Run, time: 68.0, travel time: 12.769403009454248, restart: False}
+{name: Riverside Run, type: Race, time: 60.73463687150838, travel time: 17.66905207936235, restart: False}
+{name: Plain Sailing, type: Race, time: 54.701117318435756, travel time: 0.15137180700094607, restart: False}
+{name: Unconventional, type: Stunt Run, time: 93.0, travel time: 17.182200410446278, restart: False}
+{name: Avant Guard, type: Race, time: 64.75698324022346, travel time: 8.286137512759092, restart: False}
+{name: Deep South, type: Race, time: 90.90223463687151, travel time: 34.219562561494435, restart: True}
+{name: Press Ganged, type: Marked Man, time: 80.85754189944134, travel time: 5.556087690363808, restart: False}
+{name: Race for the Plate, type: Race, time: 68.77932960893855, travel time: 4.087739524356715, restart: False}
+{name: Rat Race, type: Race, time: 66.76815642458101, travel time: 5.510016945529248, restart: False}
+{name: Go West!, type: Race, time: 119.05865921787709, travel time: 32.80580146452441, restart: False}
+{name: Torpedo Run, type: Race, time: 76.82402234636871, travel time: 11.960528170000625, restart: False}
+{name: Heads Up, type: Race, time: 64.75698324022346, travel time: 28.632588496891668, restart: False}
+{name: Baseball Battle, type: Race, time: 100.95810055865921, travel time: 2.923475181203855, restart: False}
+{name: Spaghetti Western, type: Race, time: 90.90223463687151, travel time: 18.275599149580465, restart: False}
+{name: Power Surge, type: Race, time: 72.80167597765364, travel time: 0.07568590350047304, restart: False}
+{name: Falling Down, type: Stunt Run, time: 78.0, travel time: 3.3172536614283636, restart: False}
+{name: Plaza Endurance, type: Race, time: 119.05865921787709, travel time: 4.934117241402194, restart: False}
+{name: Stampede, type: Marked Man, time: 98.95810055865921, travel time: 2.6097921891491644, restart: False}
+{name: High Noon Club, type: Race, time: 106.99162011173185, travel time: 5.582316416903924, restart: False}
+{name: Curveball, type: Race, time: 70.7905027932961, travel time: 9.233990409976892, restart: False}
+{name: Man O' War, type: Race, time: 80.8463687150838, travel time: 10.382495027450537, restart: False}
+{name: Offroad Parking, type: Stunt Run, time: 83.0, travel time: 25.587880584262546, restart: False}
+{name: Catch My Drift, type: Race, time: 109.0027932960894, travel time: 18.952935058674377, restart: False}
+{name: Driving Off, type: Race, time: 94.92458100558659, travel time: 14.997654024934148, restart: False}
+{name: The Duel, type: Race, time: 68.77932960893855, travel time: 10.582231863967182, restart: False}
+{name: Reach for the Stars, type: Race, time: 113.02513966480447, travel time: 8.196472353108577, restart: False}
+{name: Hard Fort, type: Race, time: 115.03631284916202, travel time: 25.51243714767557, restart: False}
+{name: Express Yourself, type: Stunt Run, time: 63.0, travel time: 8.199966011829565, restart: False}
+{name: Rescue Me, type: Marked Man, time: 84.87988826815642, travel time: 9.8240186124279, restart: False}
+{name: Safe Harbor, type: Marked Man, time: 92.92458100558659, travel time: 5.6890430949377135, restart: False}
+{name: Hostile Waters, type: Marked Man, time: 70.80167597765364, travel time: 14.887630769001474, restart: False}
+{name: Stealing 1st, type: Race, time: 40.62290502793296, travel time: 10.264861424093048, restart: False}
+{name: Elevation, type: Stunt Run, time: 93.0, travel time: 12.630251682877974, restart: False}
+{name: Coast to Coast, type: Race, time: 76.82402234636871, travel time: 8.242469413093348, restart: False}
+{name: Lighthouse Party, type: Stunt Run, time: 93.0, travel time: 3.785051958387886, restart: False}
+{name: Hang 10, type: Stunt Run, time: 88.0, travel time: 28.285051958387886, restart: True}
+---------------------------------
